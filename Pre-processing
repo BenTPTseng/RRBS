@@ -1,1 +1,1 @@
-hfghfgh
+bismark_methylation_extractor –-report -–paired-end –-bedGraph –o $outputfolder –-counts $file.bam
