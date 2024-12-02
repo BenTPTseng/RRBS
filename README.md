@@ -1,1 +1,1 @@
-# RRBS
+# RRBS Workflow
